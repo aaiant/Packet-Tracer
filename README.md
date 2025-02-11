@@ -1,5 +1,4 @@
 <h2>Packet-Tracer</h2>
-
 &emsp;About this Repo: **In my third year of studies at the Faculty of Mathematics and Computer Science at Ovidius University in Constanța, I had a course called "Computer Networks". Part of the exercises we had to complete in this course were conducted in Packet Tracer.**
 <br><h3>Images</h3>
 <hr>
