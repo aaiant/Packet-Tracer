@@ -1,157 +1,87 @@
-<h2>Packet-Tracer</h2>
-&emsp;About this Repo: **In my third year of studies at the Faculty of Mathematics and Computer Science at Ovidius University in Constanța, I had a course called "Computer Networks". Part of the exercises we had to complete in this course were conducted in Packet Tracer.**
-<br><h3>Images</h3>
-<hr>
-<div align="center" style="display: grid; 
-                          grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-                          gap: 20px;
-                          padding: 20px;
-                          background-color: #f5f5f5;
-                          border-radius: 10px;
-                          max-width: 1200px;
-                          margin: 0 auto;">
-    <img alt="L2_2" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-        src="https://github.com/aaiant/Packet-Tracer/blob/main/L2/Image_2_PT_Antohi_Andi_Ionel_L2.png">
-    <img alt="L2_3" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-        src="https://github.com/aaiant/Packet-Tracer/blob/main/L2/Image_3_PT_Antohi_Andi_Ionel_L2.png">
-    <img alt="L2_4" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-        src="https://github.com/aaiant/Packet-Tracer/blob/main/L2/Image_4_PT_Antohi_Andi_Ionel_L2.png">
-      <img alt="L2_5" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-        src="https://github.com/aaiant/Packet-Tracer/blob/main/L2/Image_5_PT_Antohi_Andi_Ionel_L2.png">
-   <img alt="L3_1" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-       src="https://github.com/aaiant/Packet-Tracer/blob/main/L3/Image_1_PT_Antohi_Andi_Ionel_L3.png">
-   <img alt="L3_2" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-      src="https://github.com/aaiant/Packet-Tracer/blob/main/L3/Image_2_PT_Antohi_Andi_Ionel_L3.png">
-  <img alt="L3_3" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-     src="https://github.com/aaiant/Packet-Tracer/blob/main/L3/Image_3_PT_Antohi_Andi_Ionel_L3.png">
-  <img alt="L4_1" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-     src="https://github.com/aaiant/Packet-Tracer/blob/main/L4/Image_1_PT_Antohi_Andi_Ione_L4.png">
-   <img alt="L5_1" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-     src="https://github.com/aaiant/Packet-Tracer/blob/main/L5/Image_1_PT_Antohi_Andi_Ionel_L5.png">
-  <img alt="L5_2" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-     src="https://github.com/aaiant/Packet-Tracer/blob/main/L5/Image_2_PT_Antohi_Andi_Ionel_L5.png">
-    <img alt="L6_1" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-     src="https://github.com/aaiant/Packet-Tracer/blob/main/L6/Image_1_PT_Antohi_Andi_Ionel_L6.png">
-    <img alt="L6_2" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-     src="https://github.com/aaiant/Packet-Tracer/blob/main/L6/Image_2_PT_Antohi_Andi_Ionel_L6.png">
-    <img alt="L7_1" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-     src="https://github.com/aaiant/Packet-Tracer/blob/main/L7/Image_1_PT_Antohi_Andi_Ionel_L7.png">
-    <img alt="L7_2" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-     src="https://github.com/aaiant/Packet-Tracer/blob/main/L7/Image_2_PT_Antohi_Andi_Ionel_L7.png">
-    <img alt="L7_3" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-     src="https://github.com/aaiant/Packet-Tracer/blob/main/L7/Image_3_PT_Antohi_Andi_Ionel_L7.png">
-    <img alt="L8_1" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-     src="https://github.com/aaiant/Packet-Tracer/blob/main/L8/Image_1_PT_Antohi_Andi_Ionel_L8.png">
-</div>
+<h1 align="center">🌐 Packet Tracer Network Projects</h1>
+
+<p align="center">
+Hands-on networking labs and simulations built using Cisco Packet Tracer.
+</p>
+
+---
+
+## 📌 Overview
+
+This repository contains a collection of network simulation projects developed using **Cisco Packet Tracer**.
+The purpose of these projects is to design, configure, and analyze different network topologies while applying core networking concepts used in real-world environments.
+
+These labs reflect practical experience with networking fundamentals, similar to **CCNA-level scenarios**.
+
+---
+
+## 🚀 Objectives
+
+* Design scalable and functional network topologies
+* Configure routers and switches
+* Implement IP addressing (IPv4/IPv6)
+* Understand network communication and troubleshooting
+* Simulate real-world networking environments
+
+---
+
+## 🧠 Concepts Covered
+
+* Routing & Switching
+* VLANs and Inter-VLAN Routing
+* Static & Dynamic Routing
+* DHCP Configuration
+* Network Topology Design
+* Basic Network Security Concepts
+
+---
+
+## ⚙️ Requirements
+
+To run these projects, you need:
+
+* **Cisco Packet Tracer** (version 8.x or newer recommended)
+
+---
+
+## ▶️ How to Use
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/aaiant/Packet-Tracer.git
+```
+
+2. Open any `.pkt` file using Cisco Packet Tracer
+
+3. Explore:
+
+   * Network topology
+   * Device configurations
+   * Connectivity (ping, simulation mode)
+
+---
+
+## 📊 What I Learned
+
+* Practical network design and implementation
+* Troubleshooting connectivity issues
+* Working with routers, switches, and end devices
+* Understanding how real-world networks are structured
+
+---
+
+## 🎯 Future Improvements
+
+* Add more advanced and scalable network topologies
+* Include detailed documentation for each project
+* Simulate enterprise-level scenarios
+* Integrate networking with Linux tools (Wireshark, Nmap)
+
+---
+
+## 💡 Notes
+
+This repository is part of my learning journey in networking and complements my transition towards backend development and data-oriented systems.
+
+---
